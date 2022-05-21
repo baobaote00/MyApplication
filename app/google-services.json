@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862160961570",
+    "project_id": "test-6a510",
+    "storage_bucket": "test-6a510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862160961570:android:d28c5753084de61cbc4a7b",
+        "android_client_info": {
+          "package_name": "com.gacha.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862160961570-qd4q0ij0ephkcfii607uo2jdvk86bhgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjdQ-Iba8VQRehgbUkxIVDIueC26UblPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862160961570-qd4q0ij0ephkcfii607uo2jdvk86bhgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
